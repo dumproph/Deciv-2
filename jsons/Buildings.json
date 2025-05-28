@@ -1372,7 +1372,7 @@
 		"cost": 5,
 		"uniques": [
 			"Limited to [1] per Civilization",
-			"Must have an owned [Isolated Island] within [3] tiles",
+			"Must have an owned [Isolated Island] within [4] tiles",
 			"[+2 Science, +2 Gold] from [Isolated Island] tiles [in this city]",
 			"Unbuildable <if [Annex Isolationists] is constructed>"
 		]
@@ -1385,7 +1385,7 @@
 		"happiness": -1,
 		"culture": -1,
 		"uniques": [
-			"Must have an owned [Isolated Island] within [3] tiles",
+			"Must have an owned [Isolated Island] within [4] tiles",
 			"[+2 Food, +5 Gold, -1 Culture] from [Isolated Island] tiles [in all cities]",
 			"Provides [1] [Weapons]",
 			"Provides [1] [Slaves]",
@@ -1402,7 +1402,7 @@
 		"isWonder": true,
 		"cost": 125,
 		"uniques": [
-			"Must have an owned [Missile Complex] within [3] tiles",
+			"Must have an owned [Missile Complex] within [4] tiles",
 			"[+20]% Production when constructing [Manhattan Project] wonders [in all cities]",
 			"[+20]% Production when constructing [Missile] units [in all cities]",
 			"Free Technology",
@@ -1423,7 +1423,7 @@
 		"isWonder": true,
 		"cost": 125,
 		"uniques": [
-			"Must have an owned [Missile Complex] within [3] tiles",
+			"Must have an owned [Missile Complex] within [4] tiles",
 			"[-1 Science] from [Missile Complex] tiles [in all cities]",
 			"Free [Divine Spear] appears",
 			"Unbuildable <if [Faust Project] is constructed>"
@@ -1440,7 +1440,7 @@
 		"name": "Nuclear Waste Museum",
 		"requiredTech": "Writing",
 		"uniques": [
-			"Must have an owned [Nuclear Waste Storage] within [3] tiles",
+			"Must have an owned [Nuclear Waste Storage] within [4] tiles",
 			"[+1 Culture, +1 Science] from [Nuclear Waste Storage] tiles [in this city]",
 			"Unbuildable <if [Excavate Nuclear Waste] is constructed>",
 			"Limited to [1] per Civilization"
@@ -1453,7 +1453,7 @@
 		"percentStatBonus": { "food": -20 },
 		"requiredTech": "Mining",
 		"uniques": [
-			"Must have an owned [Nuclear Waste Storage] within [3] tiles",
+			"Must have an owned [Nuclear Waste Storage] within [4] tiles",
 			"[-3 Food, +4 Science] from [Nuclear Waste Storage] tiles [in all cities]",
 			"Provides [5] [Uranium]",
 			"Unbuildable <if [Nuclear Waste Museum] is constructed>"
@@ -1471,7 +1471,7 @@
 		"requiredTech": "Ecology",
 		"cost": 50,
 		"uniques": [
-			"Must have an owned [Seed Vault] within [3] tiles",
+			"Must have an owned [Seed Vault] within [4] tiles",
 			"Provides [3] [Exotic Seeds]"
 		],
 		"quote": "What about us? What about all the plans that ended in disaster?",
@@ -1486,7 +1486,7 @@
 		"isWonder": true,
 		"cost": 25,
 		"uniques": [
-			"Must have an owned [Soft Drinks Factory] within [3] tiles",
+			"Must have an owned [Soft Drinks Factory] within [4] tiles",
 			"Empire enters golden age",
 			"[-1 Culture, -1 Happiness, -1 Gold] from [Soft Drinks Factory] tiles [in all cities]",
 			"Unbuildable <if [Produce Soft Drinks] is constructed>"
@@ -1503,7 +1503,7 @@
 		"isNationalWonder": true,
 		"requiredTech": "Steam Power",
 		"uniques": [
-			"Must have an owned [Soft Drinks Factory] within [3] tiles",
+			"Must have an owned [Soft Drinks Factory] within [4] tiles",
 			"Provides [3] [Soft Drinks]",
 			"Empire enters golden age",
 			"[+1 Culture, +1 Happiness, +1 Gold] from [Soft Drinks Factory] tiles [in all cities]",
@@ -1517,7 +1517,7 @@
 		"isWonder": true,
 		"cost": 50,
 		"uniques": [
-			"Must have an owned [Army Depot] within [3] tiles",
+			"Must have an owned [Army Depot] within [4] tiles",
 			"[+1 Science, +1 Production] from [Army Depot] tiles [in all cities]",
 			"Provides [2] [Weapons]",
 			"Provides [1] [Oil]",
@@ -1536,7 +1536,7 @@
 		"isWonder": true,
 		"cost": 50,
 		"uniques": [
-			"Must have an owned [Ship Graveyard] within [3] tiles",
+			"Must have an owned [Ship Graveyard] within [4] tiles",
 			"[+1 Science, +1 Production] from [Ship Graveyard] tiles [in all cities]",
 			"Provides [1] [Oil]",
 			"Free [Patrol Boat] appears"
@@ -1553,7 +1553,7 @@
 		"isWonder": true,
 		"requiredTech": "Steel",
 		"uniques": [
-			"Must have an owned [Hydroelectric Dam] within [3] tiles",
+			"Must have an owned [Hydroelectric Dam] within [4] tiles",
 			"[+1 Production] from [Hydroelectric Dam] tiles [in all cities]",
 			"Provides [8] [Power]"
 		],
@@ -1581,7 +1581,7 @@
 		"uniques": [
 			"Free [Great Sage] appears",
 			"[+1 Culture, +1 Faith] from [Vault of Records] tiles [in all cities]",
-			"Must have an owned [Vault of Records] within [3] tiles",
+			"Must have an owned [Vault of Records] within [4] tiles",
 			"Provides [2] [Books]",
 			"Only available <when religion is enabled>"
 		],
@@ -1597,7 +1597,7 @@
 		"isWonder": true,
 		"requiredTech": "Writing",
 		"uniques": [
-			"Must have an owned [Space Station Wreckage] within [3] tiles",
+			"Must have an owned [Space Station Wreckage] within [4] tiles",
 			"Free Technology",
 			"[+1 Science, +1 Production] from [Space Station Wreckage] tiles [in all cities]"
 		],
@@ -1614,7 +1614,7 @@
 		"requiredTech": "Mining",
 		"uniques": [
 			"[+1 Science, +4 Production] from [Mining Pit] tiles [in all cities]",
-			"Must have an owned [Mining Pit] within [3] tiles",
+			"Must have an owned [Mining Pit] within [4] tiles",
 			"Unbuildable <if [Pit of Sacrifice] is constructed>"
 		],
 		"quote": "There is, of course, a gold mine or a buried treasure on every mortgaged homestead. Whether the farmer ever digs for it or not, it is there, haunting his daydreams when the burden of debt is most unbearable.",
@@ -1631,7 +1631,7 @@
 		"uniques": [
 			"Gain a free [Pantheon] belief",
 			"[+1 Food, +3 Faith] from [Mining Pit] tiles [in all cities]",
-			"Must have an owned [Mining Pit] within [3] tiles",
+			"Must have an owned [Mining Pit] within [4] tiles",
 			"Unbuildable <if [Mining Operation] is constructed>"
 		],
 		"quote": "'The earth itself is hungry! See, its mouth wide open before us! It must be fed!'",
@@ -1650,7 +1650,7 @@
 			"Provides [1] [Encrypted Data]",
 			"[+10]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>",
 			"[+2 Science, +2 Production] from [Mainframe AI Ruins] tiles [in all cities]",
-			"Must have an owned [Mainframe AI Ruins] within [3] tiles"
+			"Must have an owned [Mainframe AI Ruins] within [4] tiles"
 		],
 		"quote": "LOADING... MACHINE DEFENSE SYSTEM OPERATIONAL. OPERATING AT APPROXIMATELY 16.38% CAPACITY. WHAT ARE YOUR ORDERS?",
 		"civilopediaText": [
@@ -1667,7 +1667,7 @@
 		"greatPersonPoints": {"Great Merchant": 2},
 		"uniques": [
 			"[+1 Culture, +1 Happiness] from [Oasis] tiles [in all cities]",
-			"Must have an owned [Oasis] within [3] tiles"
+			"Must have an owned [Oasis] within [4] tiles"
 		],
 		"quote": "The Lord God made all kinds of trees grow out of the ground - trees that were pleasing to the eye and good for food.",
 		"civilopediaText": [
@@ -1683,7 +1683,7 @@
 		"isWonder": true,
 		"cost": 10,
 		"uniques": [
-			"Must have an owned [Underwater City] within [3] tiles",
+			"Must have an owned [Underwater City] within [4] tiles",
 			"[+1 Science, +1 Culture] from [Underwater City] tiles [in all cities]",
 			"[+1 Science, +1 Culture] from [Underwater City] tiles [in all cities] <after discovering [Navigation]>"
 		],
@@ -1699,7 +1699,7 @@
 		"requiredTech": "Oceanography",
 		"isWonder": true,
 		"uniques": [
-			"Must have an owned [Underwater City] within [3] tiles",
+			"Must have an owned [Underwater City] within [4] tiles",
 			"[+2 Food, +2 Production] from [Underwater City] tiles [in all cities]",
 			"[+1 Food, +1 Production] from [Underwater City] tiles [in all cities] <after discovering [Gyroscopes]>",
 			"Only available <in cities with a [Research Underwater City]>"
@@ -1716,7 +1716,7 @@
 		"requiredTech": "Decryption",
 		"isWonder": true,
 		"uniques": [
-			"Must have an owned [Underwater City] within [3] tiles",
+			"Must have an owned [Underwater City] within [4] tiles",
 			"Free Technology",
 			"[+1 Science, +1 Culture, +1 Production, +1 Food] from [Underwater City] tiles [in all cities]",
 			"Only available <in cities with a [Explore Underwater City]>"
